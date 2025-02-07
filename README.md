@@ -4,11 +4,21 @@
 👉 [Visit GitHub Codespaces](https://github.com/codespaces)
 
 ## 📌 Update Packages Using These Commands:
-Click the copy button to quickly copy the commands! ⬇️
+Click on the copy button to copy each command! ⬇️
 
-```bash
-sudo su
-sudo apt update
-sudo apt install docker.io docker-compose
-docker
-pwd
+<pre><code>sudo su</code></pre>
+
+<pre><code>sudo apt update</code></pre>
+
+<pre><code>sudo apt install docker.io docker-compose</code></pre>
+
+<pre><code>docker</code></pre>
+
+<pre><code>pwd</code></pre>
+
+---
+
+## 🛠 Upload a `windows10.yml`
+Use the following command:
+
+<pre><code>sudo docker-compose -f windows10.yml up</code></pre>
