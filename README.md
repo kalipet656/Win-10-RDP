@@ -1,6 +1,6 @@
 <h2>Getting started</h2>
 First you'll need to create a new codespace.
-visite -  [![Static Badge](https://img.shields.io/badge/codespaces-Github-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codespaces)
+visite -  https://github.com/codespaces
 
  <b>Upload a video</b> 
 
